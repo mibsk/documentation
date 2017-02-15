@@ -5,7 +5,7 @@
 Welcome to the short documentation for the Kimai time-tracking application.
 
 We could use your help improving the documentation.
-[Please contact us in the forum](http://forum.kimai.org/) if you want to help or read the Developer/Documentation section.
+[Please contact us in the forum](https://github.com/kimai/kimai/issues) if you want to help or read the Developer/Documentation section.
 
 
 ## Download for offline usage
