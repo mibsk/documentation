@@ -7,9 +7,9 @@ The following requirements must be met on the server installation:
 * A MySQL database (Kimai supports table prefixes)
 * FTP or shell access to set the correct filesystem permissions.
 
-## Installation on Ubuntu (recommended)
+## Installation on Ubuntu
 
-* Install apache
+* Install apache (or any other webserver)
 * Install mysqli
 * Install php
 * Install additional required module php-xml with ``sudo apt-get install php-xml``
